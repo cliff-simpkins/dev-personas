@@ -1,12 +1,13 @@
 ## The Director ('Devon')
+[Personality](#personality) | [Targeting](#persona-targetting) | [Engagement Strategy](#engagement-strategy) | [Motivators](#motivators) | [Content Examples](#devrel-content-examples)
 
-**Quote:** *"I want to stretch my strategic and managerial skills for greater impact."*
+> *"I want to stretch my strategic and managerial skills for greater impact."*
 
-**Persona Summary:**
-The Director represents developers who have transitioned into leadership roles. They balance technical expertise with business acumen, focusing on how technology decisions impact organizational goals and team effectiveness.
+I a developer that has transitioned into a leadership role. I balance my technical expertise with business acumen, and I focus on how technology decisions will impact my organization's goals and team effectiveness.
 
-**Background:**
-The Director started as a hands-on developer but has gradually moved into leadership roles. They has a strong technical foundations and may have a computer science degree, but now spends their time focused on team coordination and strategy than on writing code.
+
+## Personality ##
+The Director started as a hands-on developer, but has gradually moved into leadership roles. They has a strong technical foundations and may have a computer science degree but they now spends more of their time focused on team coordination and strategy, rather than on writing code.
 
 **Technical Profile:**
 - **Technical Skills**: Full-stack knowledge with architectural expertise
@@ -14,22 +15,66 @@ The Director started as a hands-on developer but has gradually moved into leader
 - **Code Approach**: Values maintainable, scalable code with consistent patterns
 - **Documentation Needs**: Architecture diagrams, integration guidelines, implementation roadmaps
 
-**Common Job Titles:**
-- Engineering Manager
-- Technical Director
-- Chief Technology Officer (CTO)
-- VP of Engineering
-- Development Manager
-- IT Director
-- Software Development Manager
-- Engineering Team Lead
-- Technical Product Manager
-- Solution Architect
+**Decision Criteria:**
+- Enterprise readiness and scalability
+- Vendor reliability and support quality
+- Total cost of ownership
+- Integration capabilities with existing systems
+- Security and compliance features
+- Ramp-up time for team adoption
 
-**Demographics:**
-- Mid-to-senior career stage (typically 8+ years of experience)
-- Generally aged 32-45
+## Persona Targetting ##
+**Role in the Buying Process**
+- Influence level: Decision Maker
+- Funnel stage: ???
 
+**Demographics *(aka 'Who they are')***
+- Role: Manager
+- Company: Varies
+- Experience: Mid-to-senior career stage (typically 8+ years of experience)
+- Age: 32-45
+- Common Job Titles:
+   - Chief Product Officer (CPO)
+   - Chief Technology Officer (CTO)
+   - Development Manager
+   - Director, Engineering
+   - Engineering [Manager | Team Lead]
+   - IT Director
+   - Technical Director
+   - Software Development Manager
+   - Solution Architect
+   - Technical Product Manager
+   - VP of Engineering
+
+**Information Sources *(aka 'Where to find them')***
+- Industry analyst reports (Gartner, Forrester)
+- Executive-focused tech publications (CIO, InfoWorld)
+- Conferences with both technical and management tracks
+- Peer networks and leadership communities
+- Case studies and success stories from enterprise implementations
+
+
+## Engagement Strategy ##
+**DevRel Use Cases to Reach This Persona:**
+- **Content Strategy**: They seek white papers, ROI calculators, and implementation roadmaps
+- **Event Participation**: They attend industry conferences with both technical and business tracks
+- **Community Engagement**: They participate in leadership forums and roundtables
+- **Product Feedback**: They focus on enterprise integration, security, and scalability concerns
+
+**Writing for this Persona:**
+- Values clear, concise communication with business context
+- Prefers data-backed recommendations
+- Appreciates executive summaries with the option to dive deeper
+- Wants both strategic overview and technical specifics
+
+**Learning Style:**
+- Case-study oriented learning
+- Peer-based knowledge exchange
+- Just-in-time learning for specific needs
+- Values content that combines technical and business perspectives
+
+
+## Motivators ##
 **Motivations:**
 - Driving business impact through technology decisions
 - Growing influence within the organization
@@ -51,34 +96,9 @@ The Director started as a hands-on developer but has gradually moved into leader
 - Managing the balance between innovation and stability
 - Justifying technology investments to executive stakeholders
 
-**Information Sources:**
-- Industry analyst reports (Gartner, Forrester)
-- Executive-focused tech publications (CIO, InfoWorld)
-- Conferences with both technical and management tracks
-- Peer networks and leadership communities
-- Case studies and success stories from enterprise implementations
 
-**Decision Criteria:**
-- Enterprise readiness and scalability
-- Vendor reliability and support quality
-- Total cost of ownership
-- Integration capabilities with existing systems
-- Security and compliance features
-- Ramp-up time for team adoption
-
-**Communication Preferences:**
-- Values clear, concise communication with business context
-- Prefers data-backed recommendations
-- Appreciates executive summaries with the option to dive deeper
-- Wants both strategic overview and technical specifics
-
-**Learning Style:**
-- Case-study oriented learning
-- Peer-based knowledge exchange
-- Just-in-time learning for specific needs
-- Values content that combines technical and business perspectives
-
-**Content Examples Tailored for Directors:**
+## DevRel Content Examples ##
+Below is a few content examples that are tailored for this persona.
 1. **White Paper:** "Building a Scalable Microservices Architecture: Enterprise Case Studies and ROI Analysis"
    - Includes technical architecture diagrams alongside business impact metrics
    - Features quotes from CTOs and VPs of Engineering
@@ -99,8 +119,3 @@ The Director started as a hands-on developer but has gradually moved into leader
    - Generates customized implementation roadmap with cost/benefit analysis
    - Provides downloadable presentation for sharing with stakeholders
 
-**DevRel Use Cases to Reach This Persona:**
-- **Content Strategy**: They seek white papers, ROI calculators, and implementation roadmaps
-- **Event Participation**: They attend industry conferences with both technical and business tracks
-- **Community Engagement**: They participate in leadership forums and roundtables
-- **Product Feedback**: They focus on enterprise integration, security, and scalability concerns

@@ -1,14 +1,12 @@
 # The Pioneer ('Perry') #
+[Personality](#personality) | [Targeting](#persona-targetting) | [Engagement Strategy](#engagement-strategy) | [Motivators](#motivators) | [Content Examples](#devrel-content-examples)
 
 > *"I love being on the frontier of innovation and tech."*
 
 I am a developer who thrives on discovering and implementing cutting-edge technologies. Once I've found a new technology, I look for a way to bring it into my work. At my core, I am an early adopter - I value innovation, and I am influential in setting the technical direction within my organization.
 
-[Persona Summary](#persona-summary) | [Persona Targeting](#persona-targetting) | [Reaching the Persona](#reaching-the-persona) |  [Persona Motivations](#persona-motivations)
 
-
-## Persona Summary ##
-**Background:**
+## Personality ##
 The Pioneer is continuously learning and experimenting with new technologies. They may have a formal technical education or self-taught, driven by a passion for emerging technologies. They're active in open source communities, local startup communities, and they frequently attend or speak at technical meetups.
 
 **Technical Profile:**
@@ -24,40 +22,31 @@ The Pioneer is continuously learning and experimenting with new technologies. Th
 - Community activity and support
 - Open source availability and license terms
 
-## Persona Targetting ##
-**Demographics *(aka 'Who they are')***
-<table>
-   <tr>
-      <th>Developer Profile</th>
-      <th>Common Job Titles</th>
-   </tr>
-   <tr>
-      <td width=40%>
-      <ul>
-         <li>Role: Individual Contributor</li>
-         <li>Decision Making: Some influence</li>
-         <li>Experience: Varies<br>&nbsp</li>
-         <li>Funnel stage: They may be a new customer showing up to trial your software (PLG motion) or a customer developer evaluating new capabilities</li>
-      </ul>
-      </td>
-      <td width=60%>
-      <ul>
-        <li>Emerging Technology Specialist</li>
-        <li>R&D Developer</li>
-        <li>Innovation Engineer</li>
-        <li>Software Architect</li>
-        <li>Software Developer</li>
-        <li>Software Engineer</li>
-        <li>Solutions Architect</li>
-        <li>Technical Lead/Fellow</li>
-        <li>Developer Advocate</li>
-        <li>Technology Evangelist</li>
-      </ul>
-      </td>
-   </tr>
-</table>
 
-**Information Sources *(aka 'Where to fund them')***
+## Persona Targetting ##
+**Role in the Buying Process**
+- Influence level: Some influence
+- Funnel stage: They may be a new customer showing up to trial your software (PLG motion) or a customer developer evaluating new capabilities
+
+**Demographics *(aka 'Who they are')***
+- Role: Individual Contributor
+- Company: Present in all companies; more likely in tech-forward and SaaS companies
+- Experience: Varies
+- Common Job Titles:
+   - Emerging Technology Specialist
+   - R&D Developer
+   - Innovation Engineer
+   - Software Architect
+   - Software Developer
+   - Software Engineer
+   - Solutions Architect
+   - Technical Lead/Fellow
+   - Developer Advocate
+   - Technology Evangelist
+
+
+
+**Information Sources *(aka 'Where to find them')***
 - Technical blogs and newsletters
 - Reddit, Hacker News, and Stack Overflow
 - GitHub repositories and trending projects
@@ -65,7 +54,8 @@ The Pioneer is continuously learning and experimenting with new technologies. Th
 - Conferences and hackathons
 - Technical social media spheres
 
-## Reaching the Persona ##
+
+## Engagement Strategy ##
 
 **DevRel Use Cases to Reach This Persona:**
 - **Content Strategy**: They seek technical deep dives, architectural explanations, and innovation showcases
@@ -80,83 +70,45 @@ The Pioneer is continuously learning and experimenting with new technologies. Th
 - Prefers communication rich with technical details and examples
 - Appreciates transparent discussions about capabilities and limitations
 
-## Motivations & Pain Points ##
 
-<table>
-   <tbody>
-      <tr>
-         <th> </th><th>How DevRel can help me...</th>
-      </tr>
-      <tr>
-         <td width=50%>
-            <h3>I'm driven to learn and grow</h3>
-            I want to discover and master cutting-edge technologies, getting my hands dirty.
-            <ul>
-            <li>Be the first to implement novel solutions</li>
-            <li>Work on challenging, unprecedented problems</li>
-            <li>Continuously expand technical expertise</li>
-            </ul>
-         </td>
-         <td width=50%>
-            <ul>
-            <li>Support experimental, hands-on learning</li>
-            <li>Provide deep dives over high-level overviews</li>
-            <li>Emphasize technical elegance and innovation</li>
-            <li>For customers, support continuous self-education and growth - highlight regular innovation</li>
-         </ul></td>
-      </tr>
-      <tr>
-         <td>
-            <h3>I need community</h3>
-            I want to share my knowledge and build a reputation within technical communities.
-            <ul>
-            <li>Work on challenging, unprecedented problems</li>
-            <li>Influence technical direction within their organization</li>
-            <li>Contribute to open source or technical communities</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-            <li>Advocacy - Support community-driven knowledge exchanges</li>
-            <li>Community champion program - to reach this persona and to reward their interest</li>
-         </ul></td>
-      </tr>
-      <tr>
-         <td>
-            <h3>Organizational restrictions frustrate me</h3>
-            <ul>
-            <li>I am frustrated by restrictive corporate technology policies</li>
-            <li>I am frustrated convincing others to adopt new approaches</li>
-            <li>I want more freedom to experiment and innovate</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-            <li>Connect innovation content with case studies that can be shared with decision makers</li>
-            <li></li>
-         </ul></td>
-      </tr>
-      <tr>
-         <td>
-            <h3>There's not enough time to learn</h3>
-            <ul>
-            <li>Legacy constraints and technical debt</li>
-            <li>Lack of time for exploration and learning</li>
-            <li>Balancing innovation with practical delivery</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-            <li>Go where they are; don't expect them to seek you out</li>
-            <li>Predictable publication rhythm</li>
-            <li></li>
-         </ul></td>
-      </tr>
-   </tbody>
-</table>
+## Motivators ##
+
+1. **I'm driven to learn and grow**, mastering cutting-edge technologies and getting my hands dirty.
+   - I want to...
+      - Be the first to implement novel solutions
+      - Work on challenging, unprecedented problems
+      - Continuously expand technical expertise
+   - How DevRel can help me...
+      - Provide and support experimental, hands-on learning (e.g., online sandboxes)
+      - Prioritize deep dive content over high-level overviews
+      - Emphasize technical elegance and innovation
+      - As a customer, support continuous self-education and growth - highlight regular innovation
+2. **I need community** to share my knowledge and where I can build a reputation *(can be internal, local, or digital)*
+   - I want to...
+      - Contribute to open source or technical communities
+      - Influence technical direction within their organization and community
+   - How DevRel can help me...
+      - Community advocacy - Support community-driven knowledge exchanges
+      - Community champion program - to reach this persona and to reward their interest
+3. **Organizational restrictions frustrate me**
+   - I need help to...
+      - Find more time and freedom to experiment and innovate
+      - Overcome restrictive corporate technology policies
+      - Convince others to adopt new approaches
+   - How DevRel can help me...
+      - Case studies - connect innovation content with business value that can be shared with decision makers
+      - Hacks - opportunities and resources to create proof of concepts that can be brought back to their organization
+4. **I have limited time to learn** in my organization
+   - I need help to...
+      = Find more time to explore and learn
+      - Manage legacy constraints and technical debt
+   - How DevRel can help me...
+      - Go where they are or the topics that they follow - don't expect them to seek you out
+      - Predictable publication rhythm
+
 
 ## DevRel Content Examples ##
-**Content Examples Tailored for Pioneers:**
+Below is a few content examples that are tailored for this persona.
 1. **Technical Deep Dive:** "Building a Serverless AI Pipeline with Vector Embeddings"
    - In-depth technical walkthrough with code samples
    - Explores bleeding-edge techniques with performance comparisons
