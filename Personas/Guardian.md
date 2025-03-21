@@ -56,6 +56,8 @@ The Guardian has developed deep expertise through hands-on experience. They valu
 - Technical blogs focusing on best practices
 
 
+## Engagement Strategy ##
+
 **Information Sources *(aka 'Where to find them')***
 
 **DevRel Use Cases to Reach This Persona:**
