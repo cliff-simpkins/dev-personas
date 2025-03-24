@@ -1,8 +1,3 @@
-<head>
-   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
-</head>
-
 ## The Guardian ('Gale')
 [Personality](#personality) | [Targeting](#persona-targetting) | [Engagement Strategy](#insights-engagement-strategy) | [Motivators](#volunteer_activism-motivators) | [Content Examples](#ballot-devrel-content-examples)
 
@@ -10,7 +5,7 @@
 
 I am a developer who takes pride in my technical excellence and mastery. I value well-engineered solutions, deep understanding of my tools, and the elegance of my implementations. I only adopt new technologies when I believe that they can provide a dramatic improvement to my solutions.
 
-## <svg xmlns="http://www.w3.org/2000/svg" height="30" viewBox="0 0 512 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill="#B197FC" d="M399 384.2C376.9 345.8 335.4 320 288 320l-64 0c-47.4 0-88.9 25.8-111 64.2c35.2 39.2 86.2 63.8 143 63.8s107.8-24.7 143-63.8zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm256 16a72 72 0 1 0 0-144 72 72 0 1 0 0 144z"/></svg> Personality ##
+<h2> <img src="../images/circle-user-solid.svg" height="30"/>  Personality </h2>
 The Guardian has developed deep expertise through hands-on experience. They values mastery and takes pride in elegant, efficient solutions. They're likely to have specialized certifications and may maintain a technical blog or repository of personal projects.
 
 **Technical Profile:**
@@ -79,7 +74,7 @@ The Guardian has developed deep expertise through hands-on experience. They valu
 - Technical blogs focusing on best practices
 
 
-## <span class="material-icons">insights</span> Engagement Strategy ##
+<h2> <img src="../images/map-solid.svg" height="30"/> Engagement Strategy </h2>
 
 **DevRel Use Cases to Reach This Persona:**
 - **Content Strategy**: They seek comprehensive documentation, best practices guides, and technical deep dives
@@ -127,7 +122,7 @@ The Guardian has developed deep expertise through hands-on experience. They valu
       - Good documentation that can explain at both the conceptual and deep level
 
 
-## <span class="material-icons">ballot</span> DevRel Content Examples ##
+<h2> <img src="../images/file-signature-solid.svg" height="30"/> DevRel Content Examples </h2>
 *Below are a few content examples that would likely resonate with this persona.*
 
 1. **Technical Reference:** "Database Indexing Strategies: Beyond the Basics"
@@ -157,3 +152,6 @@ The Guardian has developed deep expertise through hands-on experience. They valu
    - Performance benchmarks and optimization notes
    - Architectural documentation explaining design decisions
    - Alternative implementation approaches with comparisons
+
+## Attirbution ##
+Icons from Font Awesome - https://fontawesome.com/
