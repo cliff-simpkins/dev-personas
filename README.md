@@ -91,5 +91,5 @@ To help communicate how each of these personas can be used by DevRel, each row h
 </table>
 
 ---
-# License
+### License
 All material contained in this repository is published under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
