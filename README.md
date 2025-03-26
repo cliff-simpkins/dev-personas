@@ -1,18 +1,23 @@
 # Modern Developer Personas
-This repository contains a collection of draft developer personas that can be used by Developer Relations professionals, regardless of the company that they work at and portion of the global developer population that they target.
+This repository contains a collection of developer personas that can be used by Developer Relations professionals, regardless of the company that they work at and portion of the global developer population that they target. DevRel can use these personas as 'short hand' to drive clarity of strategy and execution - breaking the large 'developer' population into distinct/named groups that can be prioritized and built for.
 
-They were built out using the [DevRel Foundation working group requirements and use case list](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/46), which carried the following requirements:
-1. Outcome-focused - They can be used to inform and guide DevRel strategies and tactics
-2. Motivations - They include both technical and emotional aspects of developers
-3. Practical - They incorporate industry-standard dimensions for practical use
-4. Use cases - Each persona can drive content creation, event planning, community building, and product feedback
-5. FLEXIBLE - They remain flexible enough to be adapted for specific contexts
+### A foundation for your organization
+Although the personas can be used as-is, they are intended as a starting point. It is recommended that you tailor the persona to meet the needs of your organization - tailoring them to how their developer journey with your product/platform. To make them your own, there are a lot of resources and guides on persona creation, including [Developer Relations by Caroline Lewko and James Parton](https://www.goodreads.com/book/show/58153391-developer-relations). Their book, in particular, demonstrates how to create the persona and how to map it to a developer journey *(Discover -> Evaluate -> Learn -> Build -> Scale)*.
 
-The personas include standard dimensions such as motivations, technical preferences, challenges, communication preferences, and learning styles to enable consistent application across organizations.
+The personas include standard dimensions such as motivations, technical profiling (and common job titles), common evaluation criteria, preferences, challenges, communication preferences, and learning styles to enable consistent application across organizations.
+
+You should be able to use these personas (or tailored versions of them) to...
+
+- Align with your leadership and internal stakeholders team on which developer segment you are building for, and what success measures DevRel is accountable for
+- Align with Product Marketing on value proposition, messaging, and GTM planning
+- Align with Marketing Operations and Demand Gen to ensure developers are properly identified and treated appropriately
+- Align with Sales to ensure developers are authentically engaged
 
 
-# Personas
-There are five initial personas proposed below. The personas are intended to be technology/industry agnostic, applying a motivational lens across all modern developers.
+For additional information on what went into their design, see the [Design Considerations](#design-considerations) section below.
+
+## Included Personas
+There are five developer personas proposed below. The personas are designed  to be technology/industry agnostic, applying a motivational lens across all modern developers.
 
 To help communicate how each of these personas can be used by DevRel, each row has a set of activities that DevRel can use if that persona is identified as a business target.
 <table>
@@ -89,6 +94,24 @@ To help communicate how each of these personas can be used by DevRel, each row h
     <td><ul><li>Implementation forums <li> Help centers <li> Practice communities</li></ul></td>
   </tr>
 </table>
+
+## Design Considerations
+
+The personas have their root in my experience as a Product Manager at Microsoft - I've been working with personas for 15+ years, designing personas for Windows and Microsoft Azure and working with the UX team that managed personas for all of Microsoft's developer offerings. I could write a book on the lessons learned from Microsoft's decades of persona experience - learning more about differences of segments vs personas, too many vs too few, the importance of regional tailoring, and more (and - in fact - I wrote [a chapter on the topic of personas](https://www.goodreads.com/book/show/49385943-developer-marketing-and-relations)  :) ). 
+
+These particular personas have their roots in an effort in 2017 to create base personas that are industry-wide, not just focused on one product/business. In 2019, my team built and tested a series of Cloud Developer personas (Conductor, Craftsman, Explorer, Artist, and Tactician) that we used with GTM strategy and content creation/testing. I even collaborated with several other platform providers on the idea of open-sourcing them. But the Pandemic came in and put this on the back-burner and I changed companies. The personas in this repository reflect a further evolution of those five, further expanding them and incorporating persona needs I felt running a DevRel team a SaaS provider.
+
+### Designed for collaboration
+Although built with the DevRel team in mind, the personas are designed to be usable by DevRel stakeholder/partner teams - marketing, product, and field/sales. Each personas includes a professional profile section to aid with identification and measurement, as well as an 'engagement tactics by team' section that provides actionable guidance to DevRel stakeholders.
+
+### Guiding principles for persona design
+
+As these personas were built, I used the [DevRel Foundation working group requirements and use case list](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/46), which carried the following requirements:
+1. Outcome-focused - They can be used to inform and guide DevRel strategies and tactics
+2. Motivations - They include both technical and emotional aspects of developers
+3. Practical - They incorporate industry-standard dimensions for practical use
+4. Use cases - Each persona can drive content creation, event planning, community building, and product feedback
+5. FLEXIBLE - They remain flexible enough to be adapted for specific contexts
 
 ---
 ### License
