@@ -3,7 +3,7 @@ This repository contains a collection of developer personas for use by developer
 
 These personas are motivation-centric personas, prioritizing behaviors and motivations over job title or ecosystem-preference. The best way to think of how they differ is to place them along two axis - their inclination towards innovation (are they tech-led or solution-led) and how much decision making power do they have. They are also easy to extend and tailor to your particular organization's needs.
 
-<img src="./images/Dev-Personas-Overview.png">
+<img src="./images/Dev-Personas-Overview.png" alt="Mapping developer personas by innovation preference and decision making ability">
 
 These developer personas have been crafted to help your teams...
 
@@ -93,12 +93,21 @@ Each of these included personas represent a type of developer you may engage. Be
 
 ## Persona Design Considerations
 
-The personas have their root in my experience as a Product Manager at Microsoft - I've been working with personas for 15+ years, designing personas for Windows and Microsoft Azure and working with the UX team that managed personas for all of Microsoft's developer offerings. I could write a book on the lessons learned from Microsoft's decades of persona experience - learning more about differences of segments vs personas, too many vs too few, the importance of regional tailoring, and more (and - in fact - I wrote [a chapter on the topic of personas](https://www.goodreads.com/book/show/49385943-developer-marketing-and-relations)  :) ). 
+### Collaboration across your organization
+Although built with the DevRel and developer marketing teams in mind, the personas are designed to be usable by stakeholder/partner teams - marketing, product, and field/sales. Each personas includes a professional profile section to aid with identification and measurement, as well as an 'engagement tactics by team' section that provides actionable guidance to DevRel stakeholders.
 
-These particular personas have their roots in an effort in 2017 to create base personas that are industry-wide, not just focused on one product/business. In 2019, my team built and tested a series of Cloud Developer personas (Conductor, Craftsman, Explorer, Artist, and Tactician) that we used with GTM strategy and content creation/testing. I even collaborated with several other platform providers on the idea of open-sourcing them. But the Pandemic came in and put this on the back-burner and I changed companies. The personas in this repository reflect a further evolution of those five, further expanding them and incorporating persona needs I felt running a DevRel team a SaaS provider.
+### Customization and Expansion
+By using broad motivations to create each persona, each is easy to tailor and expand to the needs of your organization.
 
-### Designed for collaboration
-Although built with the DevRel and developer marketing teams in mind, the personas are designed to be usable by DevRel stakeholder/partner teams - marketing, product, and field/sales. Each personas includes a professional profile section to aid with identification and measurement, as well as an 'engagement tactics by team' section that provides actionable guidance to DevRel stakeholders.
+For example, let's say that you are selling an innovative SaaS offering to developers and that builders using your cutting-edge platform ('Perry' persona) is your ideal customer profile (ICP). However, this persona feels to broad to be actionable to your PLG and Sales teams. To do this, you will want to expand the 'Perry' persona to fit the sub-personas you are targeting.
+<img src="images/DevPersonas-Variations.png" alt="Creating four persona variants using the Pioneer persona">
+
+In this example, we created three additional 'Perry' variants and retained 'Perry' as our core/mid-career target:
+- 'Piper' is an early in career professional looking to make their mark in an existing SaaS company
+- 'Princeton' is the senior research engineer in the innovation / R&D department of enterprises
+- 'Priya' is a startup co-founder or lead developer that isn't encumbered by existing infrastructure
+
+For each of the variants above, they each retain the same core identity and motivations of 'Perry', but each has expanded and detailed information about where your company can find them and engage them. To signal the mapping of the variants back to the base/core persona, each name retains the same first letter of the name ('P'), allowing you to provide the additional persona detail without having to add linear cognitive load to users of your personas. Your UX team, for example, can still easily understand how to design dashboards for 'Devon, the Director' (who many want analytics and account info), 'Gale, the Guardian' (who may not want all the bells and whistles), and these personas. And your Marketing team can focus on the broad differentiation between Devon, Gale, and Perry for your broad messaging and website, while tailoring innovation-led marketing campaigns to Piper (e.g., MLH hackathons) or Priya (e.g., Startup Mixer at Seattle Tech Week).
 
 ### Guiding principles for persona design
 
@@ -108,6 +117,13 @@ As these personas were built, I used the [DevRel Foundation working group requir
 3. Practical - They incorporate industry-standard dimensions for practical use
 4. Use cases - Each persona can drive content creation, event planning, community building, and product feedback
 5. FLEXIBLE - They remain flexible enough to be adapted for specific contexts
+
+### Historical roots for these personas
+
+The personas have their root in my experience as a Product Manager at Microsoft - I've been working with personas for 15+ years, designing personas for Windows and Microsoft Azure and working with the UX team that managed personas for all of Microsoft's developer offerings. I could write a book on the lessons learned from Microsoft's decades of persona experience - learning more about differences of segments vs personas, too many vs too few, the importance of regional tailoring, and more (and - in fact - I wrote [a chapter on the topic of personas](https://www.goodreads.com/book/show/49385943-developer-marketing-and-relations)  :) ). 
+
+These particular personas have their roots in an effort in 2017 to create base personas that are industry-wide, not just focused on one product/business. In 2019, my team built and tested a series of Cloud Developer personas (Conductor, Craftsman, Explorer, Artist, and Tactician) that we used with GTM strategy and content creation/testing. I even collaborated with several other platform providers on the idea of open-sourcing them. But the Pandemic came in and put this on the back-burner and I changed companies. The personas in this repository reflect a further evolution of those five, further expanding them and incorporating persona needs I felt running a DevRel team a SaaS provider.
+
 
 ---
 ### License
