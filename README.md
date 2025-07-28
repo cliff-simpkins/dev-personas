@@ -3,7 +3,7 @@ This repository contains a collection of developer personas for use by developer
 
 These personas are motivation-centric personas, prioritizing behaviors and motivations over job title or ecosystem-preference. The best way to think of how they differ is to place them along two axis - their inclination towards innovation (are they tech-led or solution-led) and how much decision making power do they have. They are also easy to extend and tailor to your particular organization's needs.
 
-<img src="./images/dev-personas-overview.png">
+<img src="./images/Dev-Personas-Overview.png">
 
 These developer personas have been crafted to help your teams...
 
