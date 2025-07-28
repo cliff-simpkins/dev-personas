@@ -1,37 +1,33 @@
 # Modern Developer Personas
-This repository contains a collection of developer personas that can be used by Developer Relations and Developer Marketing professionals, regardless of the company that they work at and portion of the global developer population that they target. These personas are intended as 'short hand' to help organizations drive clarity of strategy and execution - breaking the large 'developer' population into distinct/named groups that can be prioritized and built for.
+This repository contains a collection of developer personas for use by developer marketing and DevRel teams, regardless of the company that they work at and portion of the global developer population that they target. They serve as 'short hand' to help organizations drive clarity of strategy and execution - breaking the large 'developer' population into distinct/named groups that can be prioritized and built for.
 
-### A foundation for your organization
-Although the personas can be used as-is, they are intended as a starting point. It is recommended that you tailor the persona to meet the needs of your organization - tailoring them to how their developer journey with your product/platform. To make them your own, there are a lot of resources and guides on persona creation, including [Developer Relations by Caroline Lewko and James Parton](https://www.goodreads.com/book/show/58153391-developer-relations). Their book, in particular, demonstrates how to create the persona and how to map it to a developer journey *(Discover -> Evaluate -> Learn -> Build -> Scale)*.
+These personas are motivation-centric personas, prioritizing behaviors and motivations over job title or ecosystem-preference. The best way to think of how they differ is to place them along two axis - their inclination towards innovation (are they tech-led or solution-led) and how much decision making power do they have. They are also easy to extend and tailor to your particular organization's needs.
 
-The personas include standard dimensions such as motivations, technical profiling (and common job titles), common evaluation criteria, preferences, challenges, communication preferences, and learning styles to enable consistent application across organizations.
+<img src="images\dev-personas-overview.png">
 
-You should be able to use these personas (or tailored versions of them) to...
+These developer personas have been crafted to help your teams...
 
-- Align with your leadership and internal stakeholders team on which developer segment you are building for, and what success measures DevRel is accountable for
-- Align with Product Marketing on value proposition, messaging, and GTM planning
+- Align leadership and internal stakeholders teams on which developer segment you are building for, and what success measures each team is accountable for
+- Align with Product and Product Marketing on value proposition, messaging, and GTM planning
 - Align with Marketing Operations and Demand Gen to ensure developers are properly identified and treated appropriately
 - Align with Sales to ensure developers are authentically engaged
 
+Each persona includes standard dimensions such as motivations, technical profiling (and common job titles), common evaluation criteria, preferences, challenges, communication preferences, and learning styles to enable consistent application across organizations. To put them into action, I recommend [Developer Relations by Caroline Lewko and James Parton](https://www.goodreads.com/book/show/58153391-developer-relations), which demonstrates how to map it to a persona to your developer journey *(Discover -> Evaluate -> Learn -> Build -> Scale)*.
 
-For additional information on what went into their design, see the [Design Considerations](#design-considerations) section below.
-
-## Included Personas
-There are five developer personas proposed below. The personas are designed  to be technology/industry agnostic, applying a motivational lens across all modern developers.
-
-To help communicate how each of these personas can be used by DevRel, each row has a set of activities that DevRel can use if that persona is identified as a business target.
+## Five Personas and How to Reach Them
+Each of these included personas represent a type of developer you may engage. Below is an example of how a company's DevRel team may use to reach each persona.
 <table>
   <tr>
     <th>Persona</th>
-    <th>Success Measures</th>
-    <th>Content & Events</th>
-    <th>Product Feedback</th>
-    <th>Community Building</th>
+    <th>Engagement Success Measures / KPIs</th>
+    <th>Prioritized<br>Content & Events</th>
+    <th>Product Feedback<br>to gather</th>
+    <th>Effective Programs to Build Community</th>
   </tr>
   <tr valign=top>
     <td>
       <a href="Personas/Director.md">The Director ('Devon')</a><br>
-      <p>Leadership-focused developers who make strategic decisions.<p>They balance technical expertise with business acumen, focusing on how technology decisions impact organizational goals and team effectiveness.</p>
+      <p>Leadership-focused developer who make strategic decisions.<p>They balance technical expertise with business acumen, focusing on how technology decisions impact organizational goals and team effectiveness.</p>
     </td>
     <td><ul><li>Enterprise adoption rates <li>Customer satisfaction</ul></td>
     <td>
@@ -95,14 +91,14 @@ To help communicate how each of these personas can be used by DevRel, each row h
   </tr>
 </table>
 
-## Design Considerations
+## Persona Design Considerations
 
 The personas have their root in my experience as a Product Manager at Microsoft - I've been working with personas for 15+ years, designing personas for Windows and Microsoft Azure and working with the UX team that managed personas for all of Microsoft's developer offerings. I could write a book on the lessons learned from Microsoft's decades of persona experience - learning more about differences of segments vs personas, too many vs too few, the importance of regional tailoring, and more (and - in fact - I wrote [a chapter on the topic of personas](https://www.goodreads.com/book/show/49385943-developer-marketing-and-relations)  :) ). 
 
 These particular personas have their roots in an effort in 2017 to create base personas that are industry-wide, not just focused on one product/business. In 2019, my team built and tested a series of Cloud Developer personas (Conductor, Craftsman, Explorer, Artist, and Tactician) that we used with GTM strategy and content creation/testing. I even collaborated with several other platform providers on the idea of open-sourcing them. But the Pandemic came in and put this on the back-burner and I changed companies. The personas in this repository reflect a further evolution of those five, further expanding them and incorporating persona needs I felt running a DevRel team a SaaS provider.
 
 ### Designed for collaboration
-Although built with the DevRel team in mind, the personas are designed to be usable by DevRel stakeholder/partner teams - marketing, product, and field/sales. Each personas includes a professional profile section to aid with identification and measurement, as well as an 'engagement tactics by team' section that provides actionable guidance to DevRel stakeholders.
+Although built with the DevRel and developer marketing teams in mind, the personas are designed to be usable by DevRel stakeholder/partner teams - marketing, product, and field/sales. Each personas includes a professional profile section to aid with identification and measurement, as well as an 'engagement tactics by team' section that provides actionable guidance to DevRel stakeholders.
 
 ### Guiding principles for persona design
 
