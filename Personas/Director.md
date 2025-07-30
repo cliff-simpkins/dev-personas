@@ -139,8 +139,9 @@ When evaluating new technology, Directors consider:
 - **SaaS**: Values flexibility, integration capabilities, and continuous deployment
 
 ---
-### License
-All material contained in this repository is published under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
+### Licensing and Attribution
+The personas in this repository are published under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
 
-### Image Attirbutions ##
-Icons from Font Awesome - https://fontawesome.com/
+Images in this repository may be subject to additional licensing restrictions. 
+- Images using photos were created in Canva.com using licensed stock photography
+- Icons are from Font Awesome - https://fontawesome.com/ 

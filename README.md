@@ -15,88 +15,97 @@ These developer personas have been crafted to help your teams...
 Each persona includes standard dimensions such as motivations, technical profiling (and common job titles), common evaluation criteria, preferences, challenges, communication preferences, and learning styles to enable consistent application across organizations. To put them into action, I recommend [Developer Relations by Caroline Lewko and James Parton](https://www.goodreads.com/book/show/58153391-developer-relations), which demonstrates how to map it to a persona to your developer journey *(Discover -> Evaluate -> Learn -> Build -> Scale)*.
 
 ## Five Personas and How to Reach Them
-Each of these included personas represent a type of developer you may engage. Below is an example of how a company's DevRel team may use to reach each persona.
+Each persona represents a type of developer you may engage. Below is an example of how a company team may engage a persona - how they measure successful engagement and what they do to engage them.
 <table>
-  <tr>
-    <th>Persona</th>
-    <th>Engagement Success Measures / KPIs</th>
-    <th>Prioritized<br>Content & Events</th>
-    <th>Product Feedback<br>to gather</th>
-    <th>Effective Programs to Build Community</th>
+  <tr style="background-color:cc007e">
+    <td width=400px>
+      <a href="Personas/Director.md" style="color:ffc2e8; font-variant:small-caps; font-weight:bold; font-size:140%; text-shadow: 3px 3px 3px #444444">The Director ('Devon')</a>
+      <p><i>Leadership-focused developer who make strategic decisions.</i></p>
+      <p>They balance technical expertise with business acumen, focusing on how technology decisions impact organizational goals and team effectiveness.</p>
+    </td>
+    <td>
+      <ul>
+        <li><i>Success:</i> Enterprise adoption; Customer satisfaction
+        <li><i>Events:</i> Leadership panels; ROI workshops; Strategy
+        <li><i>Community:</i> Advisory boards
+        <li><i>Feedback:</i> Strategic; Enterprise
+        <li><i>Content:</i> Case Studies; Migration Guides; Architecture
+      </ul>
+    </td>
   </tr>
-  <tr valign=top>
+  <tr style="background-color:cc4e00">
     <td>
-      <a href="Personas/Director.md">The Director ('Devon')</a><br>
-      <p>Leadership-focused developer who make strategic decisions.<p>They balance technical expertise with business acumen, focusing on how technology decisions impact organizational goals and team effectiveness.</p>
+      <a href="Personas/Pioneer.md" style="color:fff5e9; font-variant:small-caps; font-weight:bold; font-size:140%; text-shadow: 3px 3px 3px #444444">The Pioneer ('Perry')</a>
+      <p><i>Developer who thrives on discovering and implementing cutting-edge technologies.</i></p>
+      <p>They're early adopters who value innovation and are often influential in setting technical direction within their organizations.</p>
     </td>
-    <td><ul><li>Enterprise adoption rates <li>Customer satisfaction</ul></td>
     <td>
-      Content Creation:<ul><li>Architecture diagrams <li> Migration guides <li> Case studies</ul>
-      Event Planning:<ul><li>Leadership panels <li> Strategy sessions <li> ROI workshops</ul>
+      <ul>
+        <li><i>Success:</i> Early adopters; Community content
+        <li><i>Events:</i> Hackathons; Emerging tech showcases
+        <li><i>Community:</i> Early adoption; Tech previews; Incubators
+        <li><i>Feedback:</i> API design; Extensibility
+        <li><i>Content:</i> Tech deep dives; API explorations
+      </ul>
     </td>
-    <td><ul><li>Advisory Boards (strategic feedback) <li> Enterprise requirements <li> Team productivity</ul>
-    </td>
-    <td><ul><li>Leadership networks <li> Decision-maker forums <li> Advisory boards</ul></td>
-  <tr valign=top>
-    <td valign=top>
-      <a href="Personas/Pioneer.md">The Pioneer ('Perry')</a>
-      <p>Developers who thrive on discovering and implementing cutting-edge technologies.<p>They're early adopters who value innovation and are often influential in setting technical direction within their organizations.</p>
-    </td>
-    <td><ul><li>Early adoption metrics <li> Community contributions</li></ul></td>
-    <td>
-      Content Creation:<ul><li>Technical deep dives <li> Innovation showcases <li> API explorations</li></ul>
-      Event Planning:<ul><li>Hackathons <li> Innovation labs <li> Emerging tech showcases</li></ul>
-    </td>
-    <td><ul><li>Innovation opportunities <li> API design <li> Extensibility</li></ul></td>
-    <td><ul><li>Innovation communities <li> Early adopter programs <li> Tech previews</li></ul></td>
   </tr>
-  <tr valign=top>
-    <td valign=top>
-      <a href="Personas/Guardian.md">The Guardian ('Gale')</a>
-      <p>Developers who prioritize technical excellence and require proven solutions over shiny advances.<p>They value well-engineered solutions, deep understanding of their tools, and the elegance of their implementations.</p>
-    </td>
-    <td><ul><li>Technical feedback quality <li> Expert retention</li></ul></td>
+  <tr style="background-color:1f48ff">
     <td>
-      Content Creation:<ul><li>Best practices <li> Optimization guides <li> Technical reference</li></ul>
-      Event Planning:<ul><li>Technical deep dives <li> Optimization workshops <li> Expert sessions</li></ul>
+      <a href="Personas/Guardian.md" style="color:c2dcff; font-variant:small-caps; font-weight:bold; font-size:140%; text-shadow: 3px 3px 3px #444444">The Guardian ('Gale')</a>
+      <p><i>Developers who prioritize technical excellence and require proven solutions over shiny advances.</i></p>
+      <p>They value well-engineered solutions, deep understanding of their tools, and the elegance of their implementations.</p>
     </td>
-    <td><ul><li>Technical quality <li> Performance <li> Best practices</li></ul></td>
-    <td><ul><li>Expert exchanges <li> Technical forums <li> Contribution programs</li></ul></td>
+    <td>
+      <ul>
+        <li><i>Success:</i> Feedback quality; API growth; Case studies
+        <li><i>Events:</i> Expert sessions; Arch reviews; workshops
+        <li><i>Community:</i> Expert exchange; Tech forums
+        <li><i>Feedback:</i> Best practices; Performance; Scalability
+        <li><i>Content:</i> Architecture patterns; Tech Reference
+      </ul>
+    </td>
   </tr>
-  <tr valign=top>
-    <td valign=top>
-      <a href="Personas/Artist.md">The Artist ('Alex')</a>
-      <p>Developers who bring a creative passion into their technical skills.<p>They prioritize the aesthetics and user experience of their work, bringing an artistic sensibility to their technical implementations.</p>
-    </td>
-    <td><ul><li>UX satisfaction scores <li> Creative implementations showcased</li></ul></td>
+  <tr style="background-color:007a3f">
     <td>
-      Content Creation:<ul><li>Visual tutorials <li> UX pattern libraries <li> Creative implementations</li></ul>
-      Event Planning:<ul><li>Design systems workshops <li> Creative coding sessions <li> UX labs</li></ul>
+      <a href="Personas/Artist.md" style="color:d9f4cd; font-variant:small-caps; font-weight:bold; font-size:140%; text-shadow: 3px 3px 3px #444444">The Artist ('Alex')</a>
+      <p><i>Developers who bring a creative passion into their technical skills.</i></p>
+      <p>They prioritize the aesthetics and user experience of their work, bringing an artistic sensibility to their technical implementations.</p>
     </td>
-    <td><ul><li>User experience <li> Visual design <li> Creative possibilities</li></ul></td>
-    <td><ul><li>Design system communities <li> Showcase platforms <li> Creative exchanges</li></ul></td>
+    <td>
+      <ul>
+        <li><i>Success:</i> UX satisfaction; UI showcase/stories
+        <li><i>Events:</i> Design workshops; UX labs
+        <li><i>Community:</i> Creative exchanges; design communities
+        <li><i>Feedback:</i> User experience; visual design
+        <li><i>Content:</i> Tutorials; 
+      </ul>
+    </td>
   </tr>
-  <tr valign=top>
-    <td valign=top>
-      <a href="Personas/Tactician.md">The Tactication ('Taylor')</a>
-      <p>Developers who focus on implementation and delivery - delivering to spec.<p>They value clarity, structure, and predictability, focusing on meeting requirements and deadlines consistently.</p>
-    </td>
-    <td><ul><li>Implementation success rates <li> Support ticket reduction</li></ul></td>
+  <tr style="background-color:9440dd">
     <td>
-      Content Creation:<ul><li>Quick starts <li> Code samples <li> Implementation guides</li></ul>
-      Event Planning:<ul><li>Hands-on labs <li> Implementation workshops <li> Certification prep</li></ul>
+      <a href="Personas/Tactician.md" style="color:edcbf6; font-variant:small-caps; font-weight:bold; font-size:140%;text-shadow: 3px 3px 3px #444444">The Tactication ('Taylor')</a>
+      <p><i>Developers who focus on implementation and delivery - delivering to spec.</i></p>
+      <p>They value clarity, structure, and predictability, focusing on meeting requirements and deadlines consistently.</p>
     </td>
-    <td><ul><li>Documentation quality <li> Ease of implementation <li> Common issues</li></ul></td>
-    <td><ul><li>Implementation forums <li> Help centers <li> Practice communities</li></ul></td>
+    <td>
+      <ul>
+        <li><i>Success:</i> Implementation success; Ticket reduction
+        <li><i>Events:</i> Hands-on labs; certification prep
+        <li><i>Community:</i> Forums; Help centers
+        <li><i>Feedback:</i> Doc quality; implementation; Common bugs
+        <li><i>Content:</i> Quick starts; code samples; implementation guides
+      </ul>
+    </td>
   </tr>
 </table>
 
+
 ## Persona Design Considerations
 
-### Collaboration across your organization
+### Cross-organization collaboration
 Although built with the DevRel and developer marketing teams in mind, the personas are designed to be usable by stakeholder/partner teams - marketing, product, and field/sales. Each personas includes a professional profile section to aid with identification and measurement, as well as an 'engagement tactics by team' section that provides actionable guidance to DevRel stakeholders.
 
-### Customization and Expansion
+### Persona customization and expansion
 By using broad motivations to create each persona, each is easy to tailor and expand to the needs of your organization.
 
 For example, let's say that you are selling an innovative SaaS offering to developers and that builders using your cutting-edge platform ('Perry' persona) is your ideal customer profile (ICP). However, this persona feels to broad to be actionable to your PLG and Sales teams. To do this, you will want to expand the 'Perry' persona to fit the sub-personas you are targeting.
@@ -126,5 +135,9 @@ These particular personas have their roots in an effort in 2017 to create base p
 
 
 ---
-### License
-All material contained in this repository is published under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
+### Licensing and Attribution
+The personas in this repository are published under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+Images in this repository may be subject to additional licensing restrictions. 
+- Images using photos were created in Canva.com using licensed stock photography
+- Icons are from Font Awesome - https://fontawesome.com/ 
